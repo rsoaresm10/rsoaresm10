@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsoaresm10
 - 👀 I’m interested in JAVA SCRIPT, REACT JS, HTML , CSS
-- 🌱 I’m currently learning JAVA SCRIPT
+- 🌱 I’m currently learning JAVA SCRIPT, REACT JS, NODE JS
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me: email rafa100103soaresmendes@gmail.com// linkedin: https://www.linkedin.com/in/rafael-soares-mendes-87bb7a247/
 
